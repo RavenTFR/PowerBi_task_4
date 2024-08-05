@@ -1,0 +1,318 @@
+city,state,postal_code,region
+Akron,Ohio,44312,East
+Albuquerque,New Mexico,87105,West
+Allen,Texas,75002,Central
+Amarillo,Texas,79109,Central
+Apple Valley,California,92307,West
+Arlington,Virginia,22204,South
+Arlington,Texas,76017,Central
+Arlington Heights,Illinois,60004,Central
+Arvada,Colorado,80004,West
+Asheville,North Carolina,28806,South
+Atlanta,Georgia,30318,South
+Auburn,New York,13021,East
+Auburn,Alabama,36830,South
+Aurora,Colorado,80013,West
+Aurora,Illinois,60505,Central
+Austin,Texas,78745,Central
+Baltimore,Maryland,21215,East
+Belleville,New Jersey,7109,East
+Bloomington,Illinois,61701,Central
+Bossier City,Louisiana,71111,South
+Bowling Green,Kentucky,42104,South
+Boynton Beach,Florida,33437,South
+Brentwood,California,94513,West
+Bridgeton,New Jersey,8302,East
+Bristol,Tennessee,37620,South
+Broomfield,Colorado,80020,West
+Brownsville,Texas,78521,Central
+Buffalo,New York,14215,East
+Burlington,North Carolina,27217,South
+Burlington,Iowa,52601,Central
+Carlsbad,New Mexico,88220,West
+Carrollton,Texas,75007,Central
+Cary,North Carolina,27511,South
+Chapel Hill,North Carolina,27514,South
+Charlotte,North Carolina,28205,South
+Charlottesville,Virginia,22901,South
+Chester,Pennsylvania,19013,East
+Chicago,Illinois,60610,Central
+Chicago,Illinois,60623,Central
+Chicago,Illinois,60653,Central
+Cincinnati,Ohio,45231,East
+Clarksville,Tennessee,37042,South
+Cleveland,Ohio,44105,East
+Clinton,Maryland,20735,East
+College Station,Texas,77840,Central
+Colorado Springs,Colorado,80906,West
+Columbia,Tennessee,38401,South
+Columbia,Maryland,21044,East
+Columbus,Ohio,43229,East
+Columbus,Georgia,31907,South
+Columbus,Indiana,47201,Central
+Concord,California,94521,West
+Concord,North Carolina,28027,South
+Concord,New Hampshire,3301,East
+Conroe,Texas,77301,Central
+Coppell,Texas,75019,Central
+Costa Mesa,California,92627,West
+Cottage Grove,Minnesota,55016,Central
+Cranston,Rhode Island,2920,East
+Dallas,Texas,75220,Central
+Dallas,Texas,75217,Central
+Dallas,Texas,75081,Central
+Daytona Beach,Florida,32114,South
+Dearborn,Michigan,48126,Central
+Decatur,Alabama,35601,South
+Decatur,Illinois,62521,Central
+Deltona,Florida,32725,South
+Denver,Colorado,80219,West
+Des Moines,Iowa,50315,Central
+Des Moines,Washington,98198,West
+Detroit,Michigan,48227,Central
+Detroit,Michigan,48234,Central
+Dover,Delaware,19901,East
+Dover,New Hampshire,3820,East
+Dublin,Ohio,43017,East
+Durham,North Carolina,27707,South
+Eagan,Minnesota,55122,Central
+Edmond,Oklahoma,73034,Central
+El Paso,Texas,79907,Central
+Elmhurst,Illinois,60126,Central
+Encinitas,California,92024,West
+Escondido,California,92025,West
+Evanston,Illinois,60201,Central
+Everett,Massachusetts,2149,East
+Fairfield,Connecticut,6824,East
+Fairfield,California,94533,West
+Fayetteville,Arkansas,72701,South
+Fayetteville,North Carolina,28314,South
+Florence,Alabama,35630,South
+Fort Collins,Colorado,80525,West
+Fort Lauderdale,Florida,33311,South
+Fort Worth,Texas,76106,Central
+Franklin,Wisconsin,53132,Central
+Franklin,Tennessee,37064,South
+Franklin,Massachusetts,2038,East
+Fremont,Nebraska,68025,Central
+Fresno,California,93727,West
+Gastonia,North Carolina,28052,South
+Gilbert,Arizona,85234,West
+Gladstone,Missouri,64118,Central
+Glendale,Arizona,85301,West
+Grand Prairie,Texas,75051,Central
+Grapevine,Texas,76051,Central
+Green Bay,Wisconsin,54302,Central
+Greensboro,North Carolina,27405,South
+Greenville,North Carolina,27834,South
+Grove City,Ohio,43123,East
+Gulfport,Mississippi,39503,South
+Hackensack,New Jersey,7601,East
+Hamilton,Ohio,45011,East
+Harlingen,Texas,78550,Central
+Henderson,Kentucky,42420,South
+Hesperia,California,92345,West
+Hialeah,Florida,33012,South
+Highland Park,Illinois,60035,Central
+Hoover,Alabama,35244,South
+Houston,Texas,77041,Central
+Houston,Texas,77095,Central
+Houston,Texas,77036,Central
+Houston,Texas,77070,Central
+Huntington Beach,California,92646,West
+Huntsville,Texas,77340,Central
+Huntsville,Alabama,35810,South
+Independence,Missouri,64055,Central
+Indianapolis,Indiana,46203,Central
+Inglewood,California,90301,West
+Irving,Texas,75061,Central
+Jackson,Mississippi,39212,South
+Jackson,Michigan,49201,Central
+Jackson,Tennessee,38301,South
+Jacksonville,Florida,32216,South
+Jacksonville,North Carolina,28540,South
+Jamestown,New York,14701,East
+Kenosha,Wisconsin,53142,Central
+Kent,Washington,98031,West
+Kent,Ohio,44240,East
+La Porte,Indiana,46350,Central
+La Quinta,California,92253,West
+Lafayette,Louisiana,70506,South
+Laguna Niguel,California,92677,West
+Lake Charles,Louisiana,70601,South
+Lake Elsinore,California,92530,West
+Lakeland,Florida,33801,South
+Lakeville,Minnesota,55044,Central
+Lakewood,New Jersey,8701,East
+Lakewood,Ohio,44107,East
+Lancaster,California,93534,West
+Lancaster,Pennsylvania,17602,East
+Lancaster,Ohio,43130,East
+Lansing,Michigan,48911,Central
+Laredo,Texas,78041,Central
+Las Cruces,New Mexico,88001,West
+Las Vegas,Nevada,89115,West
+Lawrence,Massachusetts,1841,East
+Lehi,Utah,84043,West
+Lincoln Park,Michigan,48146,Central
+Linden,New Jersey,7036,East
+Lindenhurst,New York,11757,East
+Littleton,Colorado,80122,West
+Long Beach,California,90805,West
+Long Beach,New York,11561,East
+Lorain,Ohio,44052,East
+Los Angeles,California,90049,West
+Los Angeles,California,90004,West
+Los Angeles,California,90036,West
+Los Angeles,California,90045,West
+Los Angeles,California,90032,West
+Los Angeles,California,90008,West
+Louisville,Kentucky,40214,South
+Louisville,Colorado,80027,West
+Lowell,Massachusetts,1852,East
+Macon,Georgia,31204,South
+Madison,Wisconsin,53711,Central
+Manchester,Connecticut,6040,East
+Manteca,California,95336,West
+Marion,Ohio,43302,East
+Marysville,Washington,98270,West
+Mcallen,Texas,78501,Central
+Medina,Ohio,44256,East
+Melbourne,Florida,32935,South
+Memphis,Tennessee,38109,South
+Mesa,Arizona,85204,West
+Mesquite,Texas,75150,Central
+Miami,Florida,33180,South
+Middletown,Connecticut,6457,East
+Milwaukee,Wisconsin,53209,Central
+Minneapolis,Minnesota,55407,Central
+Mishawaka,Indiana,46544,Central
+Mission Viejo,California,92691,West
+Mobile,Alabama,36608,South
+Monroe,Louisiana,71203,South
+Monroe,North Carolina,28110,South
+Montgomery,Alabama,36116,South
+Mount Vernon,New York,10550,East
+Murfreesboro,Tennessee,37130,South
+Murray,Kentucky,42071,South
+Murray,Utah,84107,West
+Murrieta,California,92563,West
+nagpur,mh,440024,central
+nagpur,mh,440024,central1
+Naperville,Illinois,60540,Central
+New Albany,Indiana,47150,Central
+New Brunswick,New Jersey,8901,East
+New Rochelle,New York,10801,East
+New York City,New York,10024,East
+New York City,New York,10009,East
+New York City,New York,10035,East
+New York City,New York,10011,East
+Newark,Ohio,43055,East
+Newark,Delaware,19711,East
+Niagara Falls,New York,14304,East
+North Las Vegas,Nevada,89031,West
+Norwich,Connecticut,6360,East
+Oakland,California,94601,West
+Oceanside,New York,11572,East
+Oceanside,California,92054,West
+Oklahoma City,Oklahoma,73120,Central
+Olathe,Kansas,66062,Central
+Olympia,Washington,98502,West
+Omaha,Nebraska,68104,Central
+Ontario,California,91761,West
+Orem,Utah,84057,West
+Orland Park,Illinois,60462,Central
+Palm Coast,Florida,32137,South
+Park Ridge,Illinois,60068,Central
+Parker,Colorado,80134,West
+Parma,Ohio,44134,East
+Pasadena,California,91104,West
+Pasadena,Texas,77506,Central
+Pembroke Pines,Florida,33024,South
+Peoria,Illinois,61604,Central
+Peoria,Arizona,85345,West
+Perth Amboy,New Jersey,8861,East
+Philadelphia,Pennsylvania,19140,East
+Philadelphia,Pennsylvania,19134,East
+Philadelphia,Pennsylvania,19120,East
+Philadelphia,Pennsylvania,19143,East
+Phoenix,Arizona,85023,West
+Pico Rivera,California,90660,West
+Plano,Texas,75023,Central
+Portland,Oregon,97206,West
+Providence,Rhode Island,2908,East
+Pueblo,Colorado,81001,West
+Quincy,Illinois,62301,Central
+Quincy,Massachusetts,2169,East
+Raleigh,North Carolina,27604,South
+Redlands,California,92374,West
+Richardson,Texas,75080,Central
+Richmond,Kentucky,40475,South
+Riverside,California,92503,West
+Rochester,Minnesota,55901,Central
+Rochester,New York,14609,East
+Rochester Hills,Michigan,48307,Central
+Rockford,Illinois,61107,Central
+Roseville,California,95661,West
+Roswell,Georgia,30076,South
+Round Rock,Texas,78664,Central
+Saginaw,Michigan,48601,Central
+Saint Louis,Missouri,63116,Central
+Saint Paul,Minnesota,55106,Central
+Saint Peters,Missouri,63376,Central
+Saint Petersburg,Florida,33710,South
+Salem,Oregon,97301,West
+Salem,Virginia,24153,South
+Salinas,California,93905,West
+Salt Lake City,Utah,84106,West
+San Antonio,Texas,78207,Central
+San Diego,California,92037,West
+San Diego,California,92024,West
+San Diego,California,92105,West
+San Francisco,California,94122,West
+San Francisco,California,94109,West
+San Francisco,California,94110,West
+San Jose,California,95123,West
+Santa Ana,California,92704,West
+Santa Clara,California,95051,West
+Scottsdale,Arizona,85254,West
+Seattle,Washington,98103,West
+Seattle,Washington,98105,West
+Seattle,Washington,98115,West
+Sioux Falls,South Dakota,57103,Central
+Skokie,Illinois,60076,Central
+Smyrna,Georgia,30080,South
+Spokane,Washington,99207,West
+Springfield,Virginia,22153,South
+Springfield,Ohio,45503,East
+Springfield,Missouri,65807,Central
+Stockton,California,95207,West
+Suffolk,Virginia,23434,South
+Tallahassee,Florida,32303,South
+Tamarac,Florida,33319,South
+Tampa,Florida,33614,South
+Taylor,Michigan,48180,Central
+Thomasville,North Carolina,27360,South
+Tigard,Oregon,97224,West
+Toledo,Ohio,43615,East
+Trenton,Michigan,48183,Central
+Troy,New York,12180,East
+Tucson,Arizona,85705,West
+Tulsa,Oklahoma,74133,Central
+Tyler,Texas,75701,Central
+Urbandale,Iowa,50322,Central
+Vallejo,California,94591,West
+Vancouver,Washington,98661,West
+Vineland,New Jersey,8360,East
+Virginia Beach,Virginia,23464,South
+Warner Robins,Georgia,31088,South
+Warwick,Rhode Island,2886,East
+Washington,District of Columbia,20016,East
+Watertown,New York,13601,East
+Waynesboro,Virginia,22980,South
+West Jordan,Utah,84084,West
+Westfield,New Jersey,7090,East
+Westland,Michigan,48185,Central
+Whittier,California,90604,West
+Wilmington,Delaware,19805,East
+Wilmington,North Carolina,28403,South
